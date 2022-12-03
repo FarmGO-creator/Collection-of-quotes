@@ -1,0 +1,9 @@
+.link {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.link.active {
+    text-decoration: underline;
+}
