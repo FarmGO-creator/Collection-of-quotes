@@ -1,0 +1,9 @@
+.link-Aside {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #333;
+}
+
+.link-Aside.active {
+    font-weight: bold;
+}
